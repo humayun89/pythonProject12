@@ -29,6 +29,13 @@ print([num**4 for num in x])
 def my_func(name):
     print('Hello '+  name)
 my_func('Humayun')
+# Defining some mathematical problem :
+def square(num):
+    return (num**2)
+output=square(5)
+print(output)
+
+
 
 
 
